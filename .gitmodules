@@ -1,0 +1,4 @@
+[submodule "highlightphp"]
+	path = highlightphp
+	url = https://github.com/scrivo/highlight.php.git
+	branch = master
